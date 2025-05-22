@@ -9,4 +9,4 @@ Power BI dashboard which deep dives into monthly profit analysis, payment modes 
 
 ## Datasets -
 1. <a href="https://github.com/RiyonDas/Power-BI-Data-analysis-of-an-E-commerce-enterprise/blob/b1f4839d29a3ca367cf1bae0ebfdcef240e8b92c/Orders.csv">Orders Data
-2. <a href="https://github.com/RiyonDas/Power-BI-Data-analysis-of-an-E-commerce-enterprise/blob/d580737c66d659be67a65acc34fc0f8cd6e8aafb/Details.csv">abc
+2. <a href="https://github.com/RiyonDas/Power-BI-Data-analysis-of-an-E-commerce-enterprise/blob/d580737c66d659be67a65acc34fc0f8cd6e8aafb/Details.csv">Details Data
