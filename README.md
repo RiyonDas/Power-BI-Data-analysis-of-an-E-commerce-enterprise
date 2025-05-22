@@ -6,6 +6,3 @@ Power BI dashboard which deep dives into monthly profit analysis, payment modes 
 2. Payment methods usage.
 3. Profit margins of Impactful products.
 4. Dynamic analysis through Quaters and cities.
-
-## Datasets -
-Orders.csv
